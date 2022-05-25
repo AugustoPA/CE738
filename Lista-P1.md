@@ -44,6 +44,10 @@ Fonte: SANTOS, A. L. & MANZANO, M.; Conceitos básicos e introdução á dinâmi
 
 ## 7. Explique a crítica de Keynes à Lei de Say e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
 
+A lei de Say diz que a “oferta cria sua própria demanda'', ou seja, à medida que se aumenta a oferta de um determinado produto ou serviço, sua demanda aumenta por consequência. A crítica de Keynes a essa lei é de tal modo a se inverterem os fatores dominantes e dominados. Em outras palavras, Keynes afirma em linhas gerais que é a demanda que cria sua própria oferta. Com isso, o princípio da demanda efetiva diz que deve haver um investimento para se diluir o excesso de produção e oferecimento de serviços, aumentando assim a demanda e consequentemente o número de empregados.
+A partir deste conceito, é possível observar o porquê possíveis crises no sistema, sendo que em algum momento o nível de produção se tornará maior do que o nível de consumo, gerando uma estagnação no nível de emprego e vendas. Sem que haja um investimento externo ou por parte do estado, essa crise pode se agravar e se mostrar duradoura. 
+
+
 ## 8. Mostre as relações existentes entre a preferência pela liquidez, a oferta de moeda (manual e escritural) controlada pelas autoridades monetárias, a incerteza em relação ao futuro, o estado das expectativas, considerando as repercussões sobre a determinação na taxa de juros, segundo Keynes.
 
 ## 9. Segundo Keynes: "Não é surpreendente que o volume dos investimentos flutue muito através do tempo. Isso porque ele depende de dois conjuntos de opiniões sobre o futuro - nenhum dos quais se apoia num fundamento adequado ou seguro - sobre a propensão a estourar e sobre a futura rentabilidade dos ativos de capital". Desenvolva o argumento e comente suas implicações.
